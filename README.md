@@ -1,6 +1,6 @@
 ## 📗 Learn
 
-Mint your own dog NFTs with Sugar CLI in five steps. 
+Mint your own NFT dog collection with Sugar CLI in six steps. 
 
 ### Set up a wallet, install Sugar CLI, and mint your NFTs
 

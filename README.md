@@ -19,7 +19,7 @@ bash <(curl -sSf https://sugar.metaplex.com/install.sh)
 sugar create-config
 ```
 
-4. Airdrop 2 SOL and upload assets (it's NOT on Solana)
+4. Airdrop 2 SOL (for external decentralized storage, candymachine, and minting) and upload assets 
 ```sh
 solana airdrop 2
 sugar upload

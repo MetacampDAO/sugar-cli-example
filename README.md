@@ -17,7 +17,6 @@ bash <(curl -sSf https://sugar.metaplex.com/install.sh)
 3. Create config file for uploading assets and setting up candymachine
 ```sh
 sugar create-config
-# Use your wallet public key
 ```
 
 4. Airdrop 2 SOL and upload assets (it's NOT on Solana)

@@ -1,0 +1,30 @@
+{
+    "name": "Dog #0002",
+    "symbol": "DOGS",
+    "description": "Collection of dogs around the world.",
+    "image": "tests.png",
+    "external_url": "https://www.instagram.com/kogithepom/",
+    "sellerFeeBasisPoints": 100,
+    "attributes": [
+      {
+        "trait_type": "scene",
+        "value": "floor"
+      },
+      {
+        "trait_type": "costume",
+        "value": "flower"
+      },
+      {
+        "trait_type": "mood",
+        "value": "pretty"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

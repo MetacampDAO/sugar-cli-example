@@ -1,0 +1,30 @@
+{
+    "name": "Dog Collection #0001",
+    "symbol": "DOGS",
+    "description": "Master Collection of dogs around the world.",
+    "image": "collection.png",
+    "external_url": "https://www.instagram.com/kogithepom/",
+    "sellerFeeBasisPoints": 100,
+    "attributes": [
+      {
+        "trait_type": "scene",
+        "value": "home"
+      },
+      {
+        "trait_type": "costume",
+        "value": "none"
+      },
+      {
+        "trait_type": "mood",
+        "value": "handsome"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
